@@ -1,2 +1,2 @@
-# gloribus.github.io
+# Nikita "Gloribus" Ivanov
 About me site
